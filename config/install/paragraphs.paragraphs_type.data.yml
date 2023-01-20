@@ -1,0 +1,14 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - chart_paragraph
+_core:
+  default_config_hash: JOfqbwXWQncGar9aS2BRUCrir4TD1E-dle89D3NPt_4
+id: data
+label: Data
+icon_uuid: null
+icon_default: null
+description: "Data used in Chart Content Type"
+behavior_plugins: {}
